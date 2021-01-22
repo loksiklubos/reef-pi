@@ -1,0 +1,291 @@
+Translation
+Prida
+Upozornenie
+Analogovı vstup
+Analogové vstupy
+Ste si isty ?
+ATO
+Zruši
+Grafy
+Vymaza
+Farba
+Stlpec
+Konfigurácia
+Vymaza
+Vypnuté
+Dokumentácia
+Hotovo
+Dávkovaè
+Ovladaè
+Upravi
+Zapnuté
+Èas ukonèenia
+Vybavenie
+Chyba
+Úplne
+Stav
+Vıška
+Import databázy
+Pouíva sa
+Vstup
+Vstupy
+Instalácia
+Konektor
+Konektory
+Svetlo
+Svetlá
+Naèítavam
+Maximum
+Minimum
+Názov
+iadny
+Vypnuté
+Ok
+Zapnuté
+Jednorazovı
+Zásuvka
+Zásuvky
+Pin
+Plán
+Opaène
+Riadok
+Beiaci
+Uloi
+Plán
+Sekunda
+Druhı
+Vybra
+Vyra názov
+Odkedy
+Èas spustenia
+Funkcia
+Jednotka
+Aktualizácia
+Aktualizácia reef-pi
+Šírka
+Upozornenie
+Vyuitie ATO
+Skontrolova frekvenciu
+Kontrola frekvencie musí by èíslo
+Frekvencia kontroly musí by 1 sekunda alebo väèšia
+Vyaduje sa frekvencia kontroly
+Kontrola
+Èerpadlo
+Najvyšší vıkon
+Zariadenie
+Makro
+iadne
+Zakáza v upozornení
+Vyaduje sa vstup
+Vyaduje sa názov
+Vyaduje sa stav ATO
+Prahová hodnota sa vyaduje  keï je povolené upozornenie
+Prah musí by èíslo
+Celkom zapnuté èerpadlo
+Nastavenia ATO nie je moné uloi z dôvodu chıb overenia. Opravte chyby a skúste to znova.
+Táto akcia sa odstráni
+ATO
+Kamera
+Konfigurácia
+Panel
+Reím pre vıvojarov
+Dávkovaè
+Davkovacia pumpa
+Vybavennie
+Kontrola stavu
+Denník
+Osvetlenie
+Svetlá
+Logy
+Makro
+Makra
+Inštanca
+PH
+Teplota
+Èasovaè
+Vymaza
+Upravi
+Vybra
+
+
+Èas
+Verzia
+Weová lokalita
+Stiahnu aktuálnu databázu
+Import existujúcej databázy
+Vypnút
+Reštartova
+Odhlási sa
+Prihlási sa
+
+Musíte zada heslo
+Musíte zada pouívate¾ské meno
+Adresa
+Alerta de estado
+Monosti
+Upozornenie na kontrolu stavu
+Display
+Povoli profil
+Povoli
+Rozhranie
+Maximálny procesor
+Maximálna pamä
+Názov
+Vyaduje sa názov
+Vyaduje sa sieová adresa
+Vyaduje sa sieové rozhranie
+Oznámenie
+PWM frekvencia
+Poui HTTPS
+Naèíta
+Správca
+Overenie
+Konektor
+Ovládaè
+Chyba
+Nastavenie
+Grafy
+Deò v mesiaci
+Hodina
+Minúta
+Mesiac
+Sekundy
+Tıdeò
+Spä na panel
+Pripojenie stratené
+Závaná chyba
+Algo salió mal y la interfaz de usuario ya no puede contactar con el servidor. Mono bude potrebné reštartova webovı server alebo urobi nejaké riešenie.
+Riešenie problémov
+CPU/Pamä
+Nemèina
+Angliètina
+Španielèina
+Èínština
+Francuština
+Korejèina
+Talianèina
+Jazyk
+Norština
+
+
+Názov kanála
+Obsah
+Zariadenie
+Èas
+Typ
+Upozornenie vyššie
+Upozornenie nišie
+Vyaduje sa analógovı vstup
+Kalibrácia
+pH(ultima) PH(aktuálne)
+PH(Priemerné)
+Farba
+Jednotka
+Max
+Min
+Kontrola frekvencie
+Kontrola
+Kontrola
+Vybavenie
+Makro
+iadne
+Aktuálne èítanie
+Dolná funkcia
+Vyaduje sa nišia funkcia
+Dolná hranica
+Dolná hranica musí by menšia ako horná hranica
+Vyaduje sa dolná prahová hodnota
+Dolná hranica musí by èíslo
+Strednı bod
+Vyaduje sa názov
+Frekvencia kontroly musí by 1 sekunda alebo väèšia
+Vyaduje sa frekvencia kontroly
+Kontrola frekvencie musí by èíslo
+Spus kalibráciu
+Druhı bod
+Vyaduje sa stav
+Prahová hodnota musí by vyššia ako vıstraha vyššie
+Dolné varovanie musí by menšie ako horné varovanie
+Pri aktivácii vıstrah sú potrebné limity
+Upozornenie nišie musí by menšia ako upozornenie vyššie
+Horná funkcia
+Vyaduje sa horná funkcia
+Horná hranica
+Vyaduje sa horná hranica
+Vyaduje sa hornı prah
+Horná hranica musí by èíslo
+Nastavenia Ph nie je moné uloi z dôvodu chıb overenia. Opravte chyby a skúste to znova.
+Odstránenie nastavenia
+Piny
+Neplatné poverenie
+Heslo
+Prihlási sa
+Meno pouivate¾a
+Aktuálny limit
+Odosielanie limitov cez email
+Historickı limit
+Limit za hodinu
+Odosla testovaciu správu
+Od
+Heslo
+Port
+Server
+Notifikácia
+iadne kontrola
+Kalibrácia
+Poui
+Nastavte teplotu
+Celzia
+Teplota(aktuálna)
+Teplota(Priemerná)
+Farba grafu
+Maximálna hodnota grafu
+Minimálny graf
+Ovládanie
+Pouitie
+Makro
+Aktuálne dáta
+Fahrenheit
+Ohrievaè/Chladenie
+Hysteréza je menšia ako prijate¾ná prahová hodnota
+Ohrievaè
+Prahová hodnota ohrievaèa
+Senzor
+Templota
+Chladenie
+Limit chladenia
+Nastavenia teploty nie je moné uloi z dôvodu chıb overenia. Opravte chyby a skúste to znova.
+Táto akcia odstráni
+Neskôr
+A potom
+Vyaduje sa deò
+Trvanie
+Pouitie
+Vypnuté
+Zapnuté
+Spä
+Akcia
+Vyaduje sa vybavenie
+Funkcia
+Vyaduje sa hodina
+Názov makra
+Makro
+Správa
+Vyaduje sa hlásenie
+Vyaduje sa minúta
+Zada názov
+Vyaduje sa
+Upozornenie
+Sekunda
+Vyaduje sa druhá
+Vypnuté
+Zapnuté
+Názov
+Zada názov
+Stav èasovaèa
+Vráte sa do vypnutia
+Spä
+Vypnuté
+Zapnuté
+Zada typ
+Nastavenia èasovaèa nie je moné uloi z dôvodu chıb overenia. Opravte chyby a skúste to znova.
